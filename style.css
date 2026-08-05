@@ -156,4 +156,10 @@ ul {
     .photos {
         flex-direction: column;
     }
+    .carte{
+        flex-direction: column;
+    }
+    .carte img{
+        order: -1;
+    }
 }
