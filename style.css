@@ -75,9 +75,10 @@ body {
 .carte {
     display: flex;
     align-items: center;
-    width: 1300px;
+    max-width: 1300px;
+    width: 100%;
     padding: 20px;
-    margin: 30;
+    margin: 30px auto;
 }
 ul {
     padding-left: 15px;
