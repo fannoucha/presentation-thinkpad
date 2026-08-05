@@ -162,4 +162,7 @@ ul {
     .carte img{
         order: -1;
     }
+    .next-button + .bouton-précédent{
+        font-size:30px;
+    }
 }
