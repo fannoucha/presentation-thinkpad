@@ -152,8 +152,3 @@ ul {
     display: flex;
     min-height: 100vh;
 }
-@media (max-width:600px) {
-    .principale{
-        flex-direction: column;
-    }
-}
