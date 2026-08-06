@@ -154,16 +154,23 @@ ul {
     min-height: 100vh;
 }
 @media(max-width:768px){
-    .photos {
+    .ordi {
+        width: 300px;
+        height: auto;
         flex-direction: column;
-    }
     .carte{
         flex-direction: column;
+        width: 250px;
+        height: auto;
     }
     .carte img{
         order: -1;
     }
+    .ordiN3 {
+        width: 200px;
+        height: auto;
+    }
     .next-button + .bouton-précédent{
-        font-size:30px;
+        font-size:22px;
     }
 }
