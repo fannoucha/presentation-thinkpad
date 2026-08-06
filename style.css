@@ -159,13 +159,22 @@ ul {
         height: auto;
         flex-direction: column;
     }
+    .photos {
+        width: 300px;
+        height: auto;
+        flex-direction: column;
+    }
     .carte{
         flex-direction: column;
-        width: 250px;
+        width: 300px;
         height: auto;
     }
     .carte img{
         order: -1;
+    }
+    .texte {
+        width: 250px;
+        height: auto;
     }
     .ordiN3 {
         width: 200px;
