@@ -166,21 +166,19 @@ ul {
     }
     .carte{
         flex-direction: column;
-        width: 300px;
+        width: 350px;
         height: auto;
     }
     .carte img{
         order: -1;
     }
     .texte {
-        width: 250px;
+        width: 300px;
         height: auto;
+        font-size: 20px
     }
     .ordiN3 {
         width: 200px;
         height: auto;
-    }
-    .next-button + .bouton-précédent{
-        font-size:22px;
     }
 }
