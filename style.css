@@ -158,6 +158,7 @@ ul {
         width: 300px;
         height: auto;
         flex-direction: column;
+    }
     .carte{
         flex-direction: column;
         width: 250px;
