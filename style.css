@@ -181,5 +181,6 @@ ul {
     .ordiN3 {
         width: 210px;
         height: auto;
+        justify-content: center;
     }
 }
