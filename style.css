@@ -183,4 +183,15 @@ ul {
         height: auto;
         justify-content: center;
     }
+    .txt3 {
+        flex-direction: row;
+        align-items: center;
+        font-size: 15px;
+    }
+    .sous-titre {
+        font-size: 20px;
+    }
+    .photos-page3 {
+        flex-direction: row;
+    }
 }
