@@ -169,6 +169,7 @@ ul {
         flex-direction: column;
         width: 350px;
         height: auto;
+        justify-content: center;
     }
     .carte img{
         order: -1;
@@ -179,9 +180,8 @@ ul {
         font-size: 20px
     }
     .ordiN3 {
-        width: 210px;
+        width: 280px;
         height: auto;
-        justify-content: center;
     }
     .txt3 {
         flex-direction: row;
@@ -193,5 +193,8 @@ ul {
     }
     .photos-page3 {
         flex-direction: row;
+    }
+    .principale {
+        flex-direction: column;
     }
 }
