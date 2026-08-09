@@ -200,6 +200,7 @@ ul {
     }
     .photos-page3 {
         flex-direction: column;
+        justify-content: center;
     }
     .photos-page3 img {
         width: 350px;
@@ -207,5 +208,6 @@ ul {
     }
     .principale {
         flex-direction: column;
+        justify-content: center;
     }
 }
