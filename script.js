@@ -4,3 +4,9 @@ boutons.forEach(function(bouton) {
         window.location.href = bouton.dataset.page;
     });
 });
+const photos = document.querySelectorAll(".ordiN3, .photos-page3");
+photos.forEach(function(zoom) {
+    zoom.addEventListener("click", function() {
+        zoom.classList.toggle("agrandie");
+    });
+});
