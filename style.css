@@ -201,6 +201,10 @@ ul {
     .photos-page3 {
         flex-direction: column;
     }
+    .photos-page3 img {
+        width: 300px;
+        height: auto;
+    }
     .principale {
         flex-direction: column;
     }
