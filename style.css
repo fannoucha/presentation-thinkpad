@@ -25,7 +25,7 @@ body {
     animation: cielAnime 90s linear infinite;
 }
 .ordiN3 + .photos-page3 {
-    transition: 0.3s;
+    transition: transform 0.3s;
 }
 .ordiN3.agrandie + .photos-page3.agrandie {
     transform: scale(1.5);
