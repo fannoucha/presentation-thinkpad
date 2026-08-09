@@ -191,7 +191,7 @@ ul {
         height: auto;
     }
     .txt3 {
-        flex-direction: row;
+        flex-direction: column;
         align-items: center;
         font-size: 15px;
     }
@@ -199,7 +199,7 @@ ul {
         font-size: 20px;
     }
     .photos-page3 {
-        flex-direction: row;
+        flex-direction: column;
     }
     .principale {
         flex-direction: column;
