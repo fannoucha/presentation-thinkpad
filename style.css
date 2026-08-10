@@ -24,6 +24,7 @@ body {
     background: linear-gradient(90deg,#B3E5FC,#81D4FA,cyan,#3399FF,#2196F3,#1E88E5,#2196F3,#3399FF,cyan,#81D4FA,#B3E5FC);
     background-size: 400%,400%;
     animation: cielAnime 90s linear infinite;
+    font-family: "Helvetica Neue";
 }
 .ordiN3 + .photos-page3 {
     transition: transform 0.3s;
