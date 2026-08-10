@@ -176,7 +176,7 @@ ul {
         width: 350px;
         height: auto;
         justify-content: center;
-        gap: 5px;
+        gap: 10px;
     }
     .carte img{
         order: -1;
@@ -209,5 +209,6 @@ ul {
     .principale {
         flex-direction: column;
         justify-content: center;
+        gap: 7px;
     }
 }
