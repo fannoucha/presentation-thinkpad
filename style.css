@@ -176,6 +176,7 @@ ul {
         width: 350px;
         height: auto;
         justify-content: center;
+        gap: 5px;
     }
     .carte img{
         order: -1;
