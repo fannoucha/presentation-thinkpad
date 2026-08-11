@@ -160,6 +160,12 @@ ul {
     display: flex;
     min-height: 100vh;
 }
+h6 {
+    posisiton: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 10px;
+}
 @media(max-width:769px){
     .ordi {
         width: 300px;
