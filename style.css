@@ -32,7 +32,9 @@ body {
 .ordiN3.agrandie + .photos-page3.agrandie {
     transform: scale(1.5);
 }
-    
+.green {
+    color: green
+}    
 @keyframes cielAnime {
     from {
         background-position: 0% 50%;
